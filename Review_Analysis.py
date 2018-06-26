@@ -1,8 +1,6 @@
 """
    CSI-535 || Artificial Intelligence Team project
-   Team : Reviewers
    Topic : Sentiment analysis using product review data
-   Authors: Rahul Chhapgar, Glen Sequeira, Nilesh Chakraborty
 """
 
 from util import *
